@@ -1,4 +1,4 @@
-require './pig_latin.rb'
+require './lib/pig_latin.rb'
 
 describe PigLatin do
 
